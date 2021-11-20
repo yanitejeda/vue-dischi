@@ -2,7 +2,7 @@
 
 <div>
     
-       <DiscContainer></DiscContainer>
+  <DiscContainer></DiscContainer>
     
 </div>
     
